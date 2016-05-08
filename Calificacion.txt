@@ -1,0 +1,15 @@
+Detalle Calificacion  23.5 /27
+Requisitos Funcionales (15 Puntos): (5 por pagina) 12.5 = ( 4 + 4 + 2.5) + 1 por intentar carga dinamica de datos en los formularios. +1 Por validar numeros en campos.
+Errores Manejados o no tiene en consola (2 Puntos): 1 Punto. Tuvo errores en la consola por mala ruta en las el src de las imagenes y tener elementos nulos a lso que trato de cambiarles el HTML.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 2.25. Buen codigo en general. Solo que mucho codigo extra comentado, esto es una mala practica, por eso le penalize 0.25
+Buen Uso de Jquery y Galeria (2.5 Puntos): 2.5 Puntos. Si utilizo JQuery para la galeria lightbox en la cartelera.
+Uso de los media Queries (2.5 Puntos): 2.5 Puntos. Si utilizo los media queries para los menus. Tiene otros media queries pero no note los cambios.
+Comentarios (1 Punto): 0.75 Puntos, no puso comentarios en algunos archivos JS.
+Pagina con buena estetica (1 Punto): 1 Punto. Uso su CSS de siempre. Bien.
+Subio bien a github (1 Punto bonus): 1 Punto.
+Total: 23.5 - El mejor examen que he calificado hasta el momento de poner este comentario.
+
+Comentarios Profesor:
+Tenia un pequeno error en las imagenes de la cartelera, agreagando el / al final de la imagen evitaba que se muestren.
+entendi que quiso cargar los menus del formulario dinamicamente. le di puntos por eso a pesar de que no funciono.
+
